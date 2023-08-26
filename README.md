@@ -18,7 +18,7 @@ Usage: touch [OPTION]... FILE...
 
 ## Download
 
-You can download the touch.exe executable for Windows (amd64) from the [Release](/adambg/win-touch/release/latest/) page
+You can download the touch.exe executable for Windows (amd64) from the [Release](https://github.com/adambg/win-touch/releases/tag/latest) page
 
 
 ## License
