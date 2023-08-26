@@ -16,6 +16,11 @@ Usage: touch [OPTION]... FILE...
   -m              Change only the modification time
 ```
 
+## Download
+
+You can download the touch.exe executable for Windows (amd64) from the [Release](adambg/win-touch/release/latest/) page
+
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
